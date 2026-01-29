@@ -1,0 +1,16 @@
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\bin\Release\NotePad.exe.config
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\bin\Release\NotePad.exe
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\bin\Release\NotePad.pdb
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.csproj.AssemblyReference.cache
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\MainWindow.g.cs
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\App.g.cs
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad_MarkupCompile.cache
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad_MarkupCompile.lref
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\MainWindow.baml
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.g.resources
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.Properties.Resources.resources
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.csproj.GenerateResource.cache
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.exe
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.pdb
+C:\Users\Ozkhan\Desktop\C#\NotePad\NotePad\obj\Release\NotePad.exe.config

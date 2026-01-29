@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079CCAED-C739-4DA2-8FF8-9A1743E2E38D}|NotePad\\NotePad.csproj|c:\\users\\ozkhan\\desktop\\c#\\notepad\\notepad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079CCAED-C739-4DA2-8FF8-9A1743E2E38D}|NotePad\\NotePad.csproj|solutionrelative:notepad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NotePad||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079CCAED-C739-4DA2-8FF8-9A1743E2E38D}|NotePad\\NotePad.csproj|C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\notepad\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{079CCAED-C739-4DA2-8FF8-9A1743E2E38D}|NotePad\\NotePad.csproj|solutionrelative:notepad\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\NotePad\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NotePad\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\NotePad\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NotePad\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAmwPoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:32:14.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotePad",
+              "DocumentMoniker": "C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\NotePad\\NotePad.csproj",
+              "RelativeDocumentMoniker": "NotePad\\NotePad.csproj",
+              "ToolTip": "C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\NotePad\\NotePad.csproj",
+              "RelativeToolTip": "NotePad\\NotePad.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-09T18:41:20.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\NotePad\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NotePad\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ozkhan\\Desktop\\C#\\NotePad\\NotePad\\MainWindow.xaml",
+              "RelativeToolTip": "NotePad\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-29T09:32:15.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
